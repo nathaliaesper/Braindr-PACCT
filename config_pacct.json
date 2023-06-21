@@ -4,7 +4,7 @@
   "manifestType": "json",
   "widgetType": "ImageSwipe",
   "widgetProperties": {
-    "baseUrlTemplate": "https://s3-us-west-2.amazonaws.com/akeshavan-mindcontrol/hbnSplat/{0}/tiles/base_{1}.png",
+    "baseUrlTemplate": "https://raw.githubusercontent.com/nathaliaesper/Braindr-PACCT/master/Images/{0}.png",
     "delimiter": "__",
     "leftSwipeLabel": "Fail",
     "rightSwipeLabel": "Pass"
