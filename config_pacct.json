@@ -17,15 +17,15 @@
     "0": {
       "level": 0,
       "min": 0,
-      "max": 1040,
+      "max": 3104,
       "character": null,
       "img": null,
       "img_grey": null
     },
     "1": {
       "level": 1,
-      "min": 1041,
-      "max": 1042,
+      "min": 3105,
+      "max": 3110,
       "character": "fish",
       "img": "https://raw.githubusercontent.com/nathaliaesper/Braindr-PACCT/master/final_image.png?sanitize=true",
       "img_grey": "https://raw.githubusercontent.com/nathaliaesper/Braindr-PACCT/master/final_image.png?sanitize=true"
